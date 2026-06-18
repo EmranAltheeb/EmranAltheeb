@@ -20,18 +20,8 @@ I am an **Artificial Intelligence Engineer** with a strong background from **Al-
 
 ---
 
-### 📁 Featured Projects
-
-#### 🤖 [Algorithmic Trading Assistant](https://github.com/EmranAltheeb/EMRAN)
-An automated assistant built with **Python**, **MetaTrader 5**, and the **Gemini API**. It automates market telemetry, processes economic reports, and sends real-time trading signals via a **Telegram Bot** with integrated risk management and Excel logging.
-
-#### 🐱 [Cat & Dog Classification System](https://github.com/EmranAltheeb/cat_dog_classification)
-A computer vision project developed using **Python**, **OpenCV**, and **NumPy** to build and evaluate an image classification model, focusing on metrics like the Confusion Matrix and F1-Score.
-
----
-
 ### 📫 Connect with me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emran-theeb/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emran-altheeb-/) 
 
 ---
 ⚡ *"The best way to predict the future is to code it."*
